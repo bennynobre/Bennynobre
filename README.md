@@ -27,3 +27,9 @@
   <a href="https://instagram.com/bennynobre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  </div>
+
+ 
+ # Last Projects: Netflix Clone using ReactJS
+![Alt Text](https://github.com/bennynobre/Netflix-Clone/blob/main/print.png?raw=true)
+ ## To view the repository <a href="https://github.com/bennynobre/Netflix-Clone" target="_blank"> click here </a>
+ 
