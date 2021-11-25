@@ -31,5 +31,5 @@
  
  # Last Projects: Netflix Clone using ReactJS
 ![Alt Text](https://github.com/bennynobre/Netflix-Clone/blob/main/print.png?raw=true)
- ## To view the repository <a href="https://github.com/bennynobre/Netflix-Clone" target="_blank"> click here </a>
+ ## To view the repository <a href="https://github.com/bennynobre/Netflix-Clone" target="_blank">click here</a>
  
