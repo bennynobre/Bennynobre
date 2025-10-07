@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Benny Nobre (Hello!! i am Benny Nobre)
 
-- 🔭 Atualmente estou estudando na Universidade Federal do Ceará(UFC)
-- 🔭 I am currently studying at the Federal University of Ceará (UFC)
+- 🔭 Atualmente estou estudando na Universidade de Fortaleza(UNIFOR)
+- 🔭 I am currently studying at the University of Fortaleza (UNIFOR)
 - 🌱 Estudando TypeScript, JavaScript e ReactJS
 - 🌱 Studying TypeScript, JavaScript and ReactJS
 
